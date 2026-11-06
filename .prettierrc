@@ -1,0 +1,17 @@
+{
+	"printWidth": 100,
+	"tabWidth": 4,
+	"useTabs": true,
+	"singleQuote": true,
+	"bracketSameLine": true,
+	"bracketSpacing": false,
+	"singleAttributePerLine": false,
+	"overrides": [
+		{
+			"files": ["*.html", "*.svg", "*.vue"],
+			"options": {
+				"printWidth": 10000
+			}
+		}
+	]
+}
